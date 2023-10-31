@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z++bwJtJDRAcqwyY6ArkPjRWvDrw7t+rz35rFR+/9ZO8W/cyaVfGa25Q2F+U6HMiyrwpf9Mrwfe6waMABlk3rQ==",
+  "success": true,
+  "projectFilePath": "E:\\PrepareTest\\typescript\\typescript\\typescript.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammad R\\.nuget\\packages\\microsoft.typescript.msbuild\\3.7.4\\microsoft.typescript.msbuild.3.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}
